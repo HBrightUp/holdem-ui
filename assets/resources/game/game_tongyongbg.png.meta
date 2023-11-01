@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bccfa66a-d965-4bee-a210-18183b81c6fd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 468,
+  "height": 468,
+  "platformSettings": {},
+  "subMetas": {
+    "game_tongyongbg": {
+      "ver": "1.0.6",
+      "uuid": "b84d6826-b212-45eb-922a-ec621034022e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bccfa66a-d965-4bee-a210-18183b81c6fd",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 30,
+      "trimY": 30,
+      "width": 408,
+      "height": 410,
+      "rawWidth": 468,
+      "rawHeight": 468,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
